@@ -1,0 +1,150 @@
+Seems you are a curious one... Well, good for you!  
+
+Here it goes:
+
+
+
+ALOE VERA : Needs 6 points to be ripe and be harvested
+
+
+    
+            RAIN:
+
+            if the amount of rain is ideal: the crop gains 3 points
+            
+            if the amount of rain is in the medium range: the crop gains 2 points
+
+            if the amount of rain is in the minimum range: the crop gains 1 point
+
+            if the amount of rain is out of the range: the crop loses 1 point
+
+
+            TEMPERATURE:
+
+            if the temperature is ideal: the crop gains 2 points
+
+            if the temperature is in the minimum range: the crop gains 1 point
+
+            if the temperature is out of the range: the crop loses 1 point
+
+
+            WIND:
+
+            if the speed of the wind is ideal: the crop gains 1 point
+
+            if the speed of the wind is out of the range: the crop loses 1 point
+            
+
+	    THE FINAL REVENUE DEPENDS ON HOW MUCH TIME IT TOOK:
+         
+            if it took 1 turn to earn the 6 points : you receive 5 coins
+
+	    if it took 2 or 3 turns to earn the 6 points : you receive 3 coins
+
+	    if it took 4 or 5 turns to earn the 6 points : you receive 1 coin
+
+	    if it's the 6 turn and it still did't earn the 6 points : you receive no coins
+
+
+
+
+
+
+
+
+MUSHROOM : Needs 12 points to be ripe and be harvested
+
+
+
+    
+            RAIN:
+
+            if the amount of rain is ideal: the crop gains 5 points
+            
+            if the amount of rain is in the medium range: the crop gains 3 points
+
+            if the amount of rain is in the minimum range: the crop gains 2 points
+
+            if the amount of rain is out of the range: the crop loses 2 points
+
+
+            TEMPERATURE:
+
+            if the temperature is ideal: the crop gains 4 points
+
+            if the temperature is in the minimum range: the crop gains 3 points
+
+            if the temperature is out of the range: the crop loses 2 points
+
+
+            WIND:
+
+            if the speed of the wind is ideal: the crop gains 3 points
+
+            if the speed of the wind is out of the range: the crop loses 1 point
+
+
+	    THE FINAL REVENUE DEPENDS ON HOW MUCH TIME IT TOOK:
+         
+            if it took 1 turn to earn the 12 points : you receive 15 coins
+
+	    if it took 2 or 3 turns to earn the 12 points : you receive 10 coins
+
+	    if it took 4 or 5 turns to earn the 12 points : you receive 5 coins
+
+	    if it's the 6 turn and it still did't earn the 12 points : you lose 1 coin
+            
+        
+
+
+
+RED FRUITS : Needs 18 points to be ripe and be harvested
+
+
+
+            RAIN:
+
+            if the amount of rain is ideal: the crop gains 7 points
+            
+            if the amount of rain is in the medium range: the crop gains 5 points
+
+            if the amount of rain is in the minimum range: the crop gains 3 points
+
+            if the amount of rain is out of the range: the crop loses 4 points
+
+
+            TEMPERATURE:
+
+            if the temperature is ideal: the crop gains 6 points
+
+            if the temperature is in the minimum range: the crop gains 4 points
+
+            if the temperature is out of the range: the crop loses 3 points
+
+    
+            WIND:
+
+            if the speed of the wind is ideal: the crop gains 5 points
+
+            if the speed of the wind is out of the range: the crop loses 2 points
+                
+
+	    THE FINAL REVENUE DEPENDS ON HOW MUCH TIME IT TOOK:
+         
+            if it took 1 turn to earn the 18 points : you receive 30 coins
+
+	    if it took 2 or 3 turns to earn the 18 points : you receive 20 coins
+
+	    if it took 4 or 5 turns to earn the 18 points : you receive 10 coins
+
+	    if it's the 6 turn and it still did't earn the 18 points : you lose 5 coin
+
+
+
+
+It's clearly not fully proportional but it goes like most of the gambles : High risk , high reward.
+                
+
+            
+
+

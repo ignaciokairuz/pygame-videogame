@@ -1,0 +1,10 @@
+The game consists of 24 turns in which you have to choose
+between 3 crops to plants, each with a different cost of 
+purchase, a different revenue after harversting and a different
+threshold of tolerance to weather conditions. If the crop
+stays put without growing enough it dies after 6 turns.
+If you want to know more details about how to make the most
+out of your crop investments wait for the text file that is about
+to be open, if not, just start and have fun
+This is your opportunity to make large ammounts of money!
+Let the game begin!
