@@ -1,3 +1,5 @@
+<img src="icon1.png" align="right" />
+<img src="icon2.png" align="right" />
 Welcome to my first videogame made completely using Python and functions/modules from the Pygame library!!
 
 This videogame has a graphical interface in which you'll find 3 types of crop and 16 parcels to plant them.
