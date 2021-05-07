@@ -6,5 +6,7 @@ into account before choosing which of the crops you'll spend money on.I built th
 of programming in college (Faculty of Engineering - University of Buenos Aires).
 
 <img src="icon1.png" align="left" />
-&nbsp;&nbsp; 
+
+&nbsp;&nbsp;
+
 <img src="icon2.png" align="left" />
