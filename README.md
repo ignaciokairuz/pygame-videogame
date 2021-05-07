@@ -7,6 +7,6 @@ of programming in college (Faculty of Engineering - University of Buenos Aires).
 
 <img src="icon1.png" align="left" />
 
-![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
+&nbsp;&nbsp;&nbsp;&nbsp
 
 <img src="icon2.png" align="left" />
