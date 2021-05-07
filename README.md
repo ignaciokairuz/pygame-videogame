@@ -5,6 +5,8 @@ The weather changes for each turn and each crop adapts differntly to each foreca
 into account before choosing which of the crops you'll spend money on.I built this game for my first course
 of programming in college (Faculty of Engineering - University of Buenos Aires).
 
+<br/>
+
 <img src="icon1.png" align="center" />
 
  </br>
