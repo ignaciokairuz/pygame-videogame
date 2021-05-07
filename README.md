@@ -8,6 +8,5 @@ of programming in college (Faculty of Engineering - University of Buenos Aires).
 <img src="icon1.png" align="left" />
 
 2 spaces
-$~~~~~~~~~~~$
 
 <img src="icon2.png" align="left" />
