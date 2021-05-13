@@ -4,7 +4,7 @@ purchase, a different revenue after harversting and a different
 threshold of tolerance to weather conditions. If the crop
 stays put without growing enough it dies after 6 turns.
 After dragging and dropping the crop with the mouse you should
-press the enter key if for the next turn to start or the 
+press the enter key for the next turn to start or the 
 backspace key to reset the parcels to the last state.
 If you want to know more details about how to make the most
 out of your crop investments wait for the text file that is about
