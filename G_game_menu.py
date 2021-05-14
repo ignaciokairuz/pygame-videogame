@@ -141,7 +141,7 @@ class InstructionsMenu(Menu):
                 count=0
                 for i in file:
                     count+=1
-                    self.game.draw_text(i, 15, self.game.DISPLAY_W / 2, self.game.DISPLAY_H / 2 - 100 +count*40, self.game.WHITE)
+                    self.game.draw_text(i.strip(), 13, self.game.DISPLAY_W / 2, self.game.DISPLAY_H / 2 - 180 +count*40, self.game.WHITE)
             self.game.draw_text('Instructions', 25, self.game.DISPLAY_W / 2, self.game.DISPLAY_H / 2 - 250, self.game.WHITE)
             self.blit_screen()
             
