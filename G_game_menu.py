@@ -11,6 +11,7 @@ class Game():
         self.display = pygame.Surface((self.DISPLAY_W,self.DISPLAY_H))
         self.window = pygame.display.set_mode(((self.DISPLAY_W,self.DISPLAY_H)))
         self.font_name = 'data/8-BIT WONDER.TTF'
+        self.font_name2 = 'data/EightBit Atari-Academy.ttf'
         self.BLACK, self.WHITE = (0, 0, 0), (255, 255, 255)
         self.main_menu = MainMenu(self)
         self.instructions = InstructionsMenu(self)
@@ -46,6 +47,13 @@ class Game():
 
     def draw_text(self, text, size, x, y , color):
         font = pygame.font.Font(self.font_name,size)
+        text_surface = font.render(text, True, color)
+        text_rect = text_surface.get_rect()
+        text_rect.center = (x,y)
+        self.display.blit(text_surface,text_rect)
+        
+    def draw_text2(self, text, size, x, y , color):
+        font = pygame.font.Font(self.font_name2,size)
         text_surface = font.render(text, True, color)
         text_rect = text_surface.get_rect()
         text_rect.center = (x,y)
@@ -141,7 +149,7 @@ class InstructionsMenu(Menu):
                 count=0
                 for i in file:
                     count+=1
-                    self.game.draw_text(i.strip(), 13, self.game.DISPLAY_W / 2, self.game.DISPLAY_H / 2 - 180 +count*40, self.game.WHITE)
+                    self.game.draw_text2(i.strip(), 13, self.game.DISPLAY_W / 2, self.game.DISPLAY_H / 2 - 180 +count*40, self.game.WHITE)
             self.game.draw_text('Instructions', 25, self.game.DISPLAY_W / 2, self.game.DISPLAY_H / 2 - 250, self.game.WHITE)
             self.blit_screen()
             
